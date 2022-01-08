@@ -1,0 +1,30 @@
+{
+    "sideBar_myProjects":"My projects",
+    "sideBar_settings":"Settings",
+    "navBar_login":"Login",
+    "navBar_logout":"Logout",
+    "navBar_language":"Language",
+    "navBar_search":"Search",
+    "pipeline_name":"Name",
+    "pipeline_action":"Action",
+    "pipeline_created_by":"Created By",
+    "pipeline_created_date":"Created On",
+    "pullRequest_name":"Name",
+    "pullRequest_action":"Action",
+    "pullRequest_created_date":"Created On",
+    "pullRequest_mergeStatus":"Status",
+    "view_action":"View",
+    "forget-password":"Forgot your Password",
+    "username":"Username",
+    "password": "Password",
+    "developers":"Developers",
+    "user_username":"Username",
+    "btn-back":"Back",
+    "pullrequest-list":"Pull Requets List",
+    "pipeline-list": "Pipelines List",
+    "developer-list":"Developers List"
+
+    
+    
+
+}

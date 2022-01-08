@@ -1,0 +1,28 @@
+{
+    "sideBar_myProjects":"Mijn Projecten",
+    "sideBar_settings":"Instellingen",
+    "navBar_login":"Inloggen",
+    "navBar_logout":"Uitloggen",
+    "navBar_language":"Taal",
+    "navBar_search":"Zoek",
+    "pipeline_name":"Naam",
+    "pipeline_action":"Actie",
+    "pipeline_created_by":"Gemaakt Door",
+    "pipeline_created_date":"Gemaakt Op",
+    "pullRequest_name":"Naam",
+    "pullRequest_action":"Actie",
+    "pullRequest_created_date":"Gemaakt Op",
+    "pullRequest_mergeStatus":"Toestand",
+    "view_action":"Bekijk",
+    "forget-password":"Uw Wachtwoord vergeten",
+    "username":"Gebruikersnaam",
+    "password": "Wachtwoord",
+    "developers":"Ontwikkelaars",
+    "user_username":"Gebruikersnaam",
+    "btn-back":"Terug",
+    "pullrequest-list":"Pull Requets Lijst",
+    "pipeline-list": "Pipelines Lijst",
+    "developer-list":"Ontwikkelaars Lijst"
+    
+    
+}
